@@ -3,7 +3,7 @@ import java.io.*;
 import java.text.*;
 import java.lang.Math;
 
-public class Game {//fix switchrules
+public class Game {
 	
 	Team home;
 	Team visitor;
